@@ -61,7 +61,7 @@ Une fois activé, tout le développement actif se déroulera dans ce dépôt :
 
 La spécification, les contrats de données et les briques partagées sont rédigés dans le dépôt de base, sous :
 
-- [`docs/apps/carriere.md`](https://github.com/libre-ai/libre-ai/blob/main/docs/apps/carriere.md) — le cahier des charges produit complet (à rédiger).
+- `docs/apps/carriere.md` — le cahier des charges produit complet (à rédiger ; sera lié ici une fois créé).
 - `crates/` — backends Rust pour appariement emplois, modélisation salariale, ou analytique du marché du travail (si applicable).
 - `packages/` — packages TypeScript pour intégration API France Travail, gestion taxonomie ROME, etc.
 - `contracts/` — schémas verrouillés pour offres d'emploi, profils utilisateurs, recherches sauvegardées.
