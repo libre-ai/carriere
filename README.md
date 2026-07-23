@@ -61,7 +61,7 @@ When activated, all active development will be in this repository:
 
 Specification, data contracts, and shared bricks are authored in the base repository, under:
 
-- [`docs/apps/carriere.md`](https://github.com/libre-ai/libre-ai/blob/main/docs/apps/carriere.md) — the full product brief (to be written).
+- `docs/apps/carriere.md` — the full product brief (to be written; it will be linked here once it exists).
 - `crates/` — Rust backends for job matching, salary modeling, or employment-market analytics (if applicable).
 - `packages/` — TypeScript packages for France Travail API integration, ROME taxonomy handling, etc.
 - `contracts/` — locked schemas for job postings, user profiles, and saved searches.
