@@ -33,7 +33,7 @@ hypothesis: >-
   Un assistant de recherche d'emploi souverain et explicable rend un cadre plus
   efficace qu'un tableur et moins exposé que les plateformes — pari à préciser.
 evidence_required:
-  - une spécification acceptée par le propriétaire
+  - une spécification G1 acceptée par le propriétaire, écrite AVEC un dogfoodeur nommé — aucune phase de code sans cobaye réel
 promotion_criteria:
   - to: spec-published
     when: une spécification G1-standard est acceptée et publiée
