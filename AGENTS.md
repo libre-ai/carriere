@@ -6,7 +6,7 @@ Reserved couche-1 product home for Carrière, a sovereign and explainable
 job-search assistant for executives: application tracking where every
 recommendation can be explained. No specification or code exists yet — the
 scope awaits owner clarification (`project.v1.yaml`, maturity `idea`).
-Doctrine lives upstream: https://raw.githubusercontent.com/libre-ai/governance/main/docs/README.md
+Doctrine lives upstream: https://raw.githubusercontent.com/libre-ai/project-governance/migrate/recover-code/docs/README.md
 
 ## Domain doctrine
 
