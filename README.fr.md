@@ -11,11 +11,11 @@ Pour les cadres en recherche d'emploi, qui rencontre des outils de candidature o
 <!-- libre-ai:project-status:begin -->
 <!-- Section générée depuis project.v1.yaml — ne pas éditer à la main. -->
 
-- Situation actuelle : Repo réservé, aucune spécification écrite, aucun code. Le périmètre exact du produit n'est pas encore clarifié par le propriétaire.
+- Situation actuelle : Gelé par décision propriétaire du 2026-10-07 : ni périmètre, ni utilisateur v0. Repo réservé, aucune spécification écrite, aucun code. Le produit n'est rouvert qu'avec une hypothèse réfutable et un utilisateur v0 nommé.
 - Maturité : idea
 - Exposition : idea
 - Confiance : low
-- Preuves vérifiées le : 2026-07-30
+- Preuves vérifiées le : 2026-10-08
 - Avancement : Avancement non calculable — périmètre à clarifier
 
 <!-- libre-ai:project-status:end -->
